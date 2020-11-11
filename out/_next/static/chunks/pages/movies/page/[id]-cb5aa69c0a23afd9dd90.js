@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[12],{DmoW:function(n,o,t){"use strict";t.r(o);var e=t("nKUr"),i=t("q1tI"),_=t("RNiq"),u=function(){return Object(e.jsx)(_.default,{})};o.default=Object(i.memo)(u)},KfRA:function(n,o,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/movies/page/[id]",function(){return t("DmoW")}])}},[["KfRA",0,2,1,3,4]]]);

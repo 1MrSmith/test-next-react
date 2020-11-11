@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component renders without crashing 1`] = `
+<React.Fragment>
+  <ForwardRef
+    className="section-card"
+    onClick={[Function]}
+    to="/1"
+  >
+    <div
+      className="section-card__wrapper"
+    >
+      <img
+        alt=""
+        className="section-card__img"
+        src=""
+      />
+    </div>
+  </ForwardRef>
+  <span
+    className="bookmark"
+  >
+    <input
+      className="bookmark-input"
+      defaultChecked={false}
+      id={1}
+      name={1}
+      onClick={[Function]}
+      type="checkbox"
+    />
+    <label
+      className="bookmark-star"
+      htmlFor={1}
+    />
+  </span>
+</React.Fragment>
+`;
